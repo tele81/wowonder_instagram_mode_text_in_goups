@@ -2,7 +2,8 @@
 
 function_one.php inside assets > includes
 
-find semilar this code and replace with this
+find semilar this code and replace with this snipped
+
 this is the code to post in groups in instagram mode without mediafile
 
 CODESNIPPED
